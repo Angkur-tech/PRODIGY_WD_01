@@ -21,12 +21,3 @@ This project is a modern, responsive landing page for "Jolpan"—a restaurant sp
 
 Clone the repository, add your preferred images (replace the hero section image as needed), and update contact information to deploy the page for any Assam-themed restaurant or food service.
 
-**Customization Ideas**:
-
-- Expand menu details with dynamic cards or gallery
-- Integrate a real booking/order backend (such as form handlers or APIs)
-- Add testimonial or review sections for enhanced engagement
-
-
-
-This landing page is an ideal starting point for restaurant web projects, combining modern design trends with local cultural storytelling and interactive UX elements.
